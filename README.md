@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustz!  
+Welcome to my GitHub profile.  
+I'm a fullstack developer passionate about building web applications with **React, Node.js, Express, and MariaDB**.  
+Currently focusing on **clean code, debugging, and seamless API integration**. 🚀  
 
 <!--
 **ahmadhidayatulkabirali/ahmadhidayatulkabirali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
